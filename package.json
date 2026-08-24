@@ -54,12 +54,12 @@
     "babel-plugin-transform-not-strict": "^0.3.1"
   },
   "devDependencies": {
-    "@babel/cli": "^7.13.14",
-    "@babel/core": "^7.13.14",
-    "eslint-config-atomic": "^1.18.1",
-    "npm-check-updates": "16.10.12",
-    "prettier-config-atomic": "^3.0.10",
-    "typescript": "^5.0.0"
+    "@babel/cli": "^8.0.0",
+    "@babel/core": "^8.0.0",
+    "eslint-config-atomic": "^2.0.0",
+    "npm-check-updates": "23.1.0",
+    "prettier-config-atomic": "^4.0.0",
+    "typescript": "^7.0.0"
   },
   "peerDependencies": {
     "@babel/cli": "^7",
